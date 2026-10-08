@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Song Description Explorer</string>
+    
+    <string name="search_hint">Enter song name...</string>
+    <string name="search_button">Search</string>
+    <string name="clear_button">Clear</string>
+    <string name="include_lyrics">Include Lyrics Analysis</string>
+    <string name="results_title">Song Description</string>
+    <string name="status_ready">Ready to search for song descriptions...</string>
+    <string name="status_searching">Searching for song description...</string>
+    <string name="status_complete">Search complete!</string>
+    <string name="status_error">Error fetching song data</string>
+    <string name="status_no_input">Please enter a song name</string>
+    
+    <string name="section_metadata">📋 Song Metadata</string>
+    <string name="section_musical_analysis">🎵 Musical Analysis</string>
+    <string name="section_lyrics_analysis">📜 Lyrics Analysis</string>
+    
+    <string name="label_artist">Artist:</string>
+    <string name="label_album">Album:</string>
+    <string name="label_release_date">Release Date:</string>
+    <string name="label_genre">Genre:</string>
+    <string name="label_duration">Duration:</string>
+    <string name="label_key">Key:</string>
+    <string name="label_bpm">BPM:</string>
+    <string name="label_time_signature">Time Signature:</string>
+    <string name="label_record_label">Record Label:</string>
+    <string name="label_producers">Producers:</string>
+    <string name="label_songwriters">Songwriters:</string>
+    <string name="label_structure">Structure:</string>
+    <string name="label_chord_progression">Chord Progression:</string>
+    <string name="label_melodic_range">Melodic Range:</string>
+    <string name="label_instrumentation">Instrumentation:</string>
+    <string name="label_vocal_style">Vocal Style:</string>
+    <string name="label_production_techniques">Production Techniques:</string>
+    <string name="label_theme">Theme:</string>
+    <string name="label_narrative">Narrative Structure:</string>
+    <string name="label_emotional_tone">Emotional Tone:</string>
+</resources>
